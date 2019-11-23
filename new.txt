@@ -1,15 +1,5 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 hi devops
-=======
-Hello devops
 
 
 how are you devops
->>>>>>> devops
-=======
-Hello devops
-
-
-how are you devops
->>>>>>> devops
